@@ -15,7 +15,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://facebook.com/aldrenevil"><img width="32px" alt="Facebook" title="Facebook" src="https://img.icons8.com/?size=100&id=8818&format=png&color=7950F2"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="[https://ko-fi.com/jlawrence](https://www.buymeacoffee.com/aldrenevil)"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://img.icons8.com/?size=100&id=8289&format=png&color=7950F2"/></a>
+  <a href="https://www.buymeacoffee.com/aldrenevil"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://img.icons8.com/?size=100&id=8289&format=png&color=7950F2"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <p align="center">
