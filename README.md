@@ -6,7 +6,8 @@
 <div>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=0.0001&pause=&color=9842F5&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Aldrene+Aguilar" alt="Typing SVG" />
 <hr style="border-color:white;">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=9842F5&center=true&vCenter=true&random=false&width=700&lines=Hello%2C+I'm+Aldrene+A.+Aguilar;An+aspiring+Java+%7C+Spring+Boot+Developer;Open+for+any+role+involving+Java" alt="" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=9842F5&center=true&vCenter=true&random=false&width=700&lines=Hello%2C+I'm+Aldrene+A.+Aguilar;An+aspiring+Java+%7C+Spring+Boot+Developer;Open+for+any+role+involving+Java" alt="" /> -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=9842F5&center=true&vCenter=true&random=false&width=700&lines=Hello%2C+I'm+Aldrene+A.+Aguilar;" alt="" />
 </div>
 
 </div>
