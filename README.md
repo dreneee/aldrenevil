@@ -18,9 +18,9 @@
   <a href="https://www.buymeacoffee.com/aldrenevil"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://img.icons8.com/?size=100&id=8289&format=png&color=7950F2"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dreneee&theme=midnight-purple&hide_border=true" alt="dreneee's Streak" />
-</p>
+</p> -->
 
 </div>
 
